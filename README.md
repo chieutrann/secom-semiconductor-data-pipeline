@@ -13,4 +13,4 @@ This project implements a Bronze–Silver–Gold data pipeline using the UCI SEC
 [UCI SECOM dataset](https://archive.ics.uci.edu/dataset/179/secom): 1,567 manufacturing records, 590 sensor features, one quality label, and one timestamp per record.
 
 ## Dashboard
-[![SECOM Pipeline Dashboard](dashboard.png)](https://dbc-c542d20f-2075.cloud.databricks.com/dashboardsv3/01f1c73361c61f5794e4868e3cee0716/published?o=7474644395746385)
+[![SECOM Pipeline Dashboard](./output/dashboard.png)](https://dbc-c542d20f-2075.cloud.databricks.com/dashboardsv3/01f1c73361c61f5794e4868e3cee0716/published?o=7474644395746385)
